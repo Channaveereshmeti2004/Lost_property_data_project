@@ -1,0 +1,94 @@
+***********************************
+
+Lost and Found Property System:
+1. Create Lost Property Record
+2. Read Lost Property Records
+3. Update Lost Property Record
+4. Delete Lost Property Record
+5. Log Lost Property as Found
+6. Manage Property Claim
+7. Exit
+Enter your choice (1-7): 1
+Enter property ID: 2
+Enter property description: PHONE
+Enter location found: BITM
+Enter contact information: 8310957949
+Lost property record 2 created successfully.
+***********************************
+
+Lost and Found Property System:
+1. Create Lost Property Record
+2. Read Lost Property Records
+3. Update Lost Property Record
+4. Delete Lost Property Record
+5. Log Lost Property as Found
+6. Manage Property Claim
+7. Exit
+Enter your choice (1-7): 2
+Lost Property Records:
+Property ID: 2, Details: {'description': 'PHONE', 'location_found': 'BITM', 'contact_info': '8310957949', 'status': 'lost'}
+***********************************
+
+Lost and Found Property System:
+1. Create Lost Property Record
+2. Read Lost Property Records
+3. Update Lost Property Record
+4. Delete Lost Property Record
+5. Log Lost Property as Found
+6. Manage Property Claim
+7. Exit
+Enter your choice (1-7): 5
+Enter property ID to log as found: 2
+Property 2 logged as found.
+***********************************
+
+Lost and Found Property System:
+1. Create Lost Property Record
+2. Read Lost Property Records
+3. Update Lost Property Record
+4. Delete Lost Property Record
+5. Log Lost Property as Found
+6. Manage Property Claim
+7. Exit
+Enter your choice (1-7): 2
+Lost Property Records:
+Property ID: 2, Details: {'description': 'PHONE', 'location_found': 'BITM', 'contact_info': '8310957949', 'status': 'found'}
+***********************************
+
+Lost and Found Property System:
+1. Create Lost Property Record
+2. Read Lost Property Records
+3. Update Lost Property Record
+4. Delete Lost Property Record
+5. Log Lost Property as Found
+6. Manage Property Claim
+7. Exit
+Enter your choice (1-7): 6
+Enter claim ID: 2
+Enter property ID for the claim: 2
+Claim 2 successfully managed for property 2.
+***********************************
+
+Lost and Found Property System:
+1. Create Lost Property Record
+2. Read Lost Property Records
+3. Update Lost Property Record
+4. Delete Lost Property Record
+5. Log Lost Property as Found
+6. Manage Property Claim
+7. Exit
+Enter your choice (1-7): 2
+Lost Property Records:
+Property ID: 2, Details: {'description': 'PHONE', 'location_found': 'BITM', 'contact_info': '8310957949', 'status': 'claimed'}
+***********************************
+
+Lost and Found Property System:
+1. Create Lost Property Record
+2. Read Lost Property Records
+3. Update Lost Property Record
+4. Delete Lost Property Record
+5. Log Lost Property as Found
+6. Manage Property Claim
+7. Exit
+Enter your choice (1-7): 7
+Exiting program.
